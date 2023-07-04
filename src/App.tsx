@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   const data = {
     header: {
-      firstName: "Andrew",
+      firstName: "Nicholas",
       lastName: "Sipes",
       phone: "704-929-9067",
       location: "Durham, NC",
